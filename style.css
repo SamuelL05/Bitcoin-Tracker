@@ -1,0 +1,22 @@
+
+#btn {
+    margin: 20px;
+}
+
+#price {
+    color: green;
+}
+
+.type {
+    display: flex;
+    flex-flow: column;
+    margin: 5px;
+}
+
+.type input {
+    margin: 10px;
+}
+
+.type section {
+    flex-flow: row;
+}
